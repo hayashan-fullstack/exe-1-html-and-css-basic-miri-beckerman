@@ -1,0 +1,46 @@
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: rgb(77, 255, 32);
+    font-size: 50px;
+    background-color: rgb(255, 208, 251) }
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+  ul.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: rgb(253, 166, 84) }
+  a:visited {
+    color: rgb(202, 40, 0) }
+  address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+h3 {
+    color:rgb(245, 112, 205);
+}
+.try {
+    color:rgb(214, 63, 4);
+    background-color: rgb(214, 155, 116);
+}
+.try8 {
+  color:rgb(189, 1, 1);
+  font-size: 100px;
+  font-family:georgia,garamond,serif;
+  font-style:italic;
+}
